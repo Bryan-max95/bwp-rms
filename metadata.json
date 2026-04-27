@@ -1,0 +1,7 @@
+{
+  "name": "RMS Cloud Dashboard",
+  "description": "Panel de control móvil para Microsoft Dynamics RMS con reportes en tiempo real.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
